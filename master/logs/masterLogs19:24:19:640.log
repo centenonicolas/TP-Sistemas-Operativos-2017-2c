@@ -1,0 +1,438 @@
+[INFO] 19:24:19:653 masterLogs19:24:19:640.log/(3227:3227): Cargando archivo de configuracion del master.
+[INFO] 19:24:19:655 masterLogs19:24:19:640.log/(3227:3227): Archivo de configuracion cargado exitosamente
+[INFO] 19:24:25:292 masterLogs19:24:19:640.log/(3227:3227): Establecida conexion con YAMA
+[INFO] 19:24:25:300 masterLogs19:24:19:640.log/(3227:3227): Se envio la ruta del archivo a procesar a YAMA
+[INFO] 19:24:30:285 masterLogs19:24:19:640.log/(3227:3227): recibe la preplanificacion del job exitosamente.
+[INFO] 19:24:30:287 masterLogs19:24:19:640.log/(3227:3227): inicia el envio de tareas a los workers planificados.
+[INFO] 19:24:31:686 masterLogs19:24:19:640.log/(3227:3248): Enviado transformacion a worker 4
+[INFO] 19:24:32:560 masterLogs19:24:19:640.log/(3227:3248): termino tarea de transformacion del worker 4
+[INFO] 19:24:33:858 masterLogs19:24:19:640.log/(3227:3247): Enviado transformacion a worker 4
+[INFO] 19:24:33:959 masterLogs19:24:19:640.log/(3227:3244): Enviado transformacion a worker 4
+[INFO] 19:24:34:186 masterLogs19:24:19:640.log/(3227:3247): termino tarea de transformacion del worker 4
+[INFO] 19:24:34:203 masterLogs19:24:19:640.log/(3227:3246): Enviado transformacion a worker 4
+[INFO] 19:24:34:431 masterLogs19:24:19:640.log/(3227:3244): termino tarea de transformacion del worker 4
+[INFO] 19:24:34:538 masterLogs19:24:19:640.log/(3227:3245): Enviado transformacion a worker 4
+[INFO] 19:24:34:559 masterLogs19:24:19:640.log/(3227:3246): termino tarea de transformacion del worker 4
+[INFO] 19:24:35:1 masterLogs19:24:19:640.log/(3227:3243): Enviado transformacion a worker 4
+[INFO] 19:24:37:294 masterLogs19:24:19:640.log/(3227:3245): termino tarea de transformacion del worker 4
+[INFO] 19:24:37:316 masterLogs19:24:19:640.log/(3227:3243): termino tarea de transformacion del worker 4
+[INFO] 19:24:37:330 masterLogs19:24:19:640.log/(3227:3233): Enviado transformacion a worker 4
+[INFO] 19:24:38:489 masterLogs19:24:19:640.log/(3227:3242): Enviado transformacion a worker 4
+[INFO] 19:24:38:840 masterLogs19:24:19:640.log/(3227:3230): Enviado transformacion a worker 4
+[INFO] 19:24:39:222 masterLogs19:24:19:640.log/(3227:3242): termino tarea de transformacion del worker 4
+[INFO] 19:24:39:244 masterLogs19:24:19:640.log/(3227:3241): Enviado transformacion a worker 4
+[INFO] 19:24:40:570 masterLogs19:24:19:640.log/(3227:3230): termino tarea de transformacion del worker 4
+[INFO] 19:24:40:616 masterLogs19:24:19:640.log/(3227:3241): termino tarea de transformacion del worker 4
+[INFO] 19:24:40:627 masterLogs19:24:19:640.log/(3227:3240): Enviado transformacion a worker 4
+[INFO] 19:24:40:816 masterLogs19:24:19:640.log/(3227:3233): termino tarea de transformacion del worker 4
+[INFO] 19:24:40:832 masterLogs19:24:19:640.log/(3227:3239): Enviado transformacion a worker 4
+[INFO] 19:24:40:891 masterLogs19:24:19:640.log/(3227:3240): termino tarea de transformacion del worker 4
+[INFO] 19:24:40:958 masterLogs19:24:19:640.log/(3227:3238): Enviado transformacion a worker 4
+[INFO] 19:24:40:966 masterLogs19:24:19:640.log/(3227:3237): Enviado transformacion a worker 4
+[INFO] 19:24:40:975 masterLogs19:24:19:640.log/(3227:3236): Enviado transformacion a worker 4
+[INFO] 19:24:41:279 masterLogs19:24:19:640.log/(3227:3231): Enviado transformacion a worker 3
+[INFO] 19:24:41:333 masterLogs19:24:19:640.log/(3227:3232): Enviado transformacion a worker 4
+[INFO] 19:24:41:340 masterLogs19:24:19:640.log/(3227:3235): Enviado transformacion a worker 4
+[INFO] 19:24:41:343 masterLogs19:24:19:640.log/(3227:3234): Enviado transformacion a worker 4
+[INFO] 19:24:41:379 masterLogs19:24:19:640.log/(3227:3249): Enviado transformacion a worker 4
+[INFO] 19:24:41:400 masterLogs19:24:19:640.log/(3227:3251): Enviado transformacion a worker 4
+[INFO] 19:24:41:413 masterLogs19:24:19:640.log/(3227:3254): Enviado transformacion a worker 4
+[INFO] 19:24:41:449 masterLogs19:24:19:640.log/(3227:3257): Enviado transformacion a worker 4
+[INFO] 19:24:41:453 masterLogs19:24:19:640.log/(3227:3255): Enviado transformacion a worker 4
+[INFO] 19:24:41:683 masterLogs19:24:19:640.log/(3227:3259): Enviado transformacion a worker 4
+[INFO] 19:24:41:725 masterLogs19:24:19:640.log/(3227:3253): Enviado transformacion a worker 4
+[INFO] 19:24:41:729 masterLogs19:24:19:640.log/(3227:3256): Enviado transformacion a worker 4
+[INFO] 19:24:41:733 masterLogs19:24:19:640.log/(3227:3258): Enviado transformacion a worker 4
+[INFO] 19:24:41:745 masterLogs19:24:19:640.log/(3227:3262): Enviado transformacion a worker 4
+[INFO] 19:24:41:775 masterLogs19:24:19:640.log/(3227:3239): termino tarea de transformacion del worker 4
+[INFO] 19:24:41:776 masterLogs19:24:19:640.log/(3227:3261): Enviado transformacion a worker 4
+[INFO] 19:24:41:797 masterLogs19:24:19:640.log/(3227:3237): termino tarea de transformacion del worker 4
+[INFO] 19:24:41:821 masterLogs19:24:19:640.log/(3227:3265): Enviado transformacion a worker 4
+[INFO] 19:24:41:899 masterLogs19:24:19:640.log/(3227:3231): termino tarea de transformacion del worker 3
+[INFO] 19:24:41:934 masterLogs19:24:19:640.log/(3227:3236): termino tarea de transformacion del worker 4
+[INFO] 19:24:41:978 masterLogs19:24:19:640.log/(3227:3260): Enviado transformacion a worker 4
+[INFO] 19:24:42:49 masterLogs19:24:19:640.log/(3227:3238): termino tarea de transformacion del worker 4
+[INFO] 19:24:42:53 masterLogs19:24:19:640.log/(3227:3263): Enviado transformacion a worker 4
+[INFO] 19:24:42:57 masterLogs19:24:19:640.log/(3227:3264): Enviado transformacion a worker 4
+[INFO] 19:24:42:64 masterLogs19:24:19:640.log/(3227:3266): Enviado transformacion a worker 4
+[INFO] 19:24:42:144 masterLogs19:24:19:640.log/(3227:3252): Enviado transformacion a worker 4
+[INFO] 19:24:42:181 masterLogs19:24:19:640.log/(3227:3268): Enviado transformacion a worker 4
+[INFO] 19:24:42:183 masterLogs19:24:19:640.log/(3227:3267): Enviado transformacion a worker 4
+[INFO] 19:24:42:197 masterLogs19:24:19:640.log/(3227:3270): Enviado transformacion a worker 4
+[INFO] 19:24:42:268 masterLogs19:24:19:640.log/(3227:3269): Enviado transformacion a worker 4
+[INFO] 19:24:42:549 masterLogs19:24:19:640.log/(3227:3271): Enviado transformacion a worker 4
+[INFO] 19:24:42:578 masterLogs19:24:19:640.log/(3227:3250): Enviado transformacion a worker 4
+[INFO] 19:24:42:695 masterLogs19:24:19:640.log/(3227:3277): Enviado transformacion a worker 4
+[INFO] 19:24:42:980 masterLogs19:24:19:640.log/(3227:3275): Enviado transformacion a worker 4
+[INFO] 19:24:43:190 masterLogs19:24:19:640.log/(3227:3276): Enviado transformacion a worker 4
+[INFO] 19:24:43:235 masterLogs19:24:19:640.log/(3227:3274): Enviado transformacion a worker 4
+[INFO] 19:24:43:240 masterLogs19:24:19:640.log/(3227:3278): Enviado transformacion a worker 4
+[INFO] 19:24:43:276 masterLogs19:24:19:640.log/(3227:3279): Enviado transformacion a worker 4
+[INFO] 19:24:43:287 masterLogs19:24:19:640.log/(3227:3273): Enviado transformacion a worker 4
+[INFO] 19:24:43:850 masterLogs19:24:19:640.log/(3227:3280): Enviado transformacion a worker 4
+[INFO] 19:24:44:42 masterLogs19:24:19:640.log/(3227:3249): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:135 masterLogs19:24:19:640.log/(3227:3272): Enviado transformacion a worker 4
+[INFO] 19:24:44:138 masterLogs19:24:19:640.log/(3227:3251): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:168 masterLogs19:24:19:640.log/(3227:3257): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:249 masterLogs19:24:19:640.log/(3227:3286): Enviado transformacion a worker 4
+[INFO] 19:24:44:288 masterLogs19:24:19:640.log/(3227:3234): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:296 masterLogs19:24:19:640.log/(3227:3255): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:300 masterLogs19:24:19:640.log/(3227:3287): Enviado transformacion a worker 4
+[INFO] 19:24:44:406 masterLogs19:24:19:640.log/(3227:3235): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:427 masterLogs19:24:19:640.log/(3227:3232): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:442 masterLogs19:24:19:640.log/(3227:3285): Enviado transformacion a worker 4
+[INFO] 19:24:44:495 masterLogs19:24:19:640.log/(3227:3288): Enviado transformacion a worker 4
+[INFO] 19:24:44:502 masterLogs19:24:19:640.log/(3227:3284): Enviado transformacion a worker 4
+[INFO] 19:24:44:514 masterLogs19:24:19:640.log/(3227:3283): Enviado transformacion a worker 4
+[INFO] 19:24:44:520 masterLogs19:24:19:640.log/(3227:3290): Enviado transformacion a worker 2
+[INFO] 19:24:44:524 masterLogs19:24:19:640.log/(3227:3291): Enviado transformacion a worker 4
+[INFO] 19:24:44:631 masterLogs19:24:19:640.log/(3227:3254): termino tarea de transformacion del worker 4
+[INFO] 19:24:44:719 masterLogs19:24:19:640.log/(3227:3292): Enviado transformacion a worker 3
+[INFO] 19:24:44:816 masterLogs19:24:19:640.log/(3227:3282): Enviado transformacion a worker 4
+[INFO] 19:24:44:842 masterLogs19:24:19:640.log/(3227:3293): Enviado transformacion a worker 4
+[INFO] 19:24:44:870 masterLogs19:24:19:640.log/(3227:3294): Enviado transformacion a worker 3
+[INFO] 19:24:44:879 masterLogs19:24:19:640.log/(3227:3289): Enviado transformacion a worker 4
+[INFO] 19:24:44:891 masterLogs19:24:19:640.log/(3227:3295): Enviado transformacion a worker 4
+[INFO] 19:24:44:967 masterLogs19:24:19:640.log/(3227:3262): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:30 masterLogs19:24:19:640.log/(3227:3296): Enviado transformacion a worker 3
+[INFO] 19:24:45:84 masterLogs19:24:19:640.log/(3227:3297): Enviado transformacion a worker 4
+[INFO] 19:24:45:154 masterLogs19:24:19:640.log/(3227:3281): Enviado transformacion a worker 4
+[INFO] 19:24:45:204 masterLogs19:24:19:640.log/(3227:3298): Enviado transformacion a worker 4
+[INFO] 19:24:45:352 masterLogs19:24:19:640.log/(3227:3299): Enviado transformacion a worker 4
+[INFO] 19:24:45:357 masterLogs19:24:19:640.log/(3227:3261): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:416 masterLogs19:24:19:640.log/(3227:3300): Enviado transformacion a worker 4
+[INFO] 19:24:45:477 masterLogs19:24:19:640.log/(3227:3301): Enviado transformacion a worker 3
+[INFO] 19:24:45:480 masterLogs19:24:19:640.log/(3227:3292): termino tarea de transformacion del worker 3
+[INFO] 19:24:45:504 masterLogs19:24:19:640.log/(3227:3302): Enviado transformacion a worker 4
+[INFO] 19:24:45:534 masterLogs19:24:19:640.log/(3227:3303): Enviado transformacion a worker 3
+[INFO] 19:24:45:617 masterLogs19:24:19:640.log/(3227:3304): Enviado transformacion a worker 4
+[INFO] 19:24:45:625 masterLogs19:24:19:640.log/(3227:3307): Enviado transformacion a worker 4
+[INFO] 19:24:45:634 masterLogs19:24:19:640.log/(3227:3308): Enviado transformacion a worker 4
+[INFO] 19:24:45:650 masterLogs19:24:19:640.log/(3227:3306): Enviado transformacion a worker 4
+[INFO] 19:24:45:658 masterLogs19:24:19:640.log/(3227:3309): Enviado transformacion a worker 4
+[INFO] 19:24:45:729 masterLogs19:24:19:640.log/(3227:3265): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:784 masterLogs19:24:19:640.log/(3227:3290): termino tarea de transformacion del worker 2
+[INFO] 19:24:45:793 masterLogs19:24:19:640.log/(3227:3267): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:795 masterLogs19:24:19:640.log/(3227:3294): termino tarea de transformacion del worker 3
+[INFO] 19:24:45:806 masterLogs19:24:19:640.log/(3227:3260): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:866 masterLogs19:24:19:640.log/(3227:3256): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:907 masterLogs19:24:19:640.log/(3227:3305): Enviado transformacion a worker 3
+[INFO] 19:24:45:912 masterLogs19:24:19:640.log/(3227:3264): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:953 masterLogs19:24:19:640.log/(3227:3253): termino tarea de transformacion del worker 4
+[INFO] 19:24:45:979 masterLogs19:24:19:640.log/(3227:3311): Enviado transformacion a worker 4
+[INFO] 19:24:45:1 masterLogs19:24:19:640.log/(3227:3259): termino tarea de transformacion del worker 4
+[INFO] 19:24:46:41 masterLogs19:24:19:640.log/(3227:3252): termino tarea de transformacion del worker 4
+[INFO] 19:24:46:137 masterLogs19:24:19:640.log/(3227:3312): Enviado transformacion a worker 3
+[INFO] 19:24:46:159 masterLogs19:24:19:640.log/(3227:3310): Enviado transformacion a worker 3
+[INFO] 19:24:46:168 masterLogs19:24:19:640.log/(3227:3313): Enviado transformacion a worker 4
+[INFO] 19:24:46:284 masterLogs19:24:19:640.log/(3227:3314): Enviado transformacion a worker 3
+[INFO] 19:24:46:297 masterLogs19:24:19:640.log/(3227:3296): termino tarea de transformacion del worker 3
+[INFO] 19:24:46:433 masterLogs19:24:19:640.log/(3227:3315): Enviado transformacion a worker 4
+[INFO] 19:24:46:517 masterLogs19:24:19:640.log/(3227:3269): termino tarea de transformacion del worker 4
+[INFO] 19:24:46:748 masterLogs19:24:19:640.log/(3227:3258): termino tarea de transformacion del worker 4
+[INFO] 19:24:46:941 masterLogs19:24:19:640.log/(3227:3263): termino tarea de transformacion del worker 4
+[INFO] 19:24:46:947 masterLogs19:24:19:640.log/(3227:3301): termino tarea de transformacion del worker 3
+[INFO] 19:24:47:6 masterLogs19:24:19:640.log/(3227:3270): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:8 masterLogs19:24:19:640.log/(3227:3316): Enviado transformacion a worker 4
+[INFO] 19:24:47:81 masterLogs19:24:19:640.log/(3227:3303): termino tarea de transformacion del worker 3
+[INFO] 19:24:47:85 masterLogs19:24:19:640.log/(3227:3271): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:90 masterLogs19:24:19:640.log/(3227:3317): Enviado transformacion a worker 4
+[INFO] 19:24:47:112 masterLogs19:24:19:640.log/(3227:3268): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:140 masterLogs19:24:19:640.log/(3227:3318): Enviado transformacion a worker 4
+[INFO] 19:24:47:260 masterLogs19:24:19:640.log/(3227:3319): Enviado transformacion a worker 3
+[INFO] 19:24:47:325 masterLogs19:24:19:640.log/(3227:3266): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:451 masterLogs19:24:19:640.log/(3227:3276): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:570 masterLogs19:24:19:640.log/(3227:3320): Enviado transformacion a worker 4
+[INFO] 19:24:47:692 masterLogs19:24:19:640.log/(3227:3274): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:774 masterLogs19:24:19:640.log/(3227:3278): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:793 masterLogs19:24:19:640.log/(3227:3277): termino tarea de transformacion del worker 4
+[INFO] 19:24:47:796 masterLogs19:24:19:640.log/(3227:3324): Enviado transformacion a worker 4
+[INFO] 19:24:47:809 masterLogs19:24:19:640.log/(3227:3250): termino tarea de transformacion del worker 4
+[INFO] 19:24:48:38 masterLogs19:24:19:640.log/(3227:3310): termino tarea de transformacion del worker 3
+[INFO] 19:24:48:59 masterLogs19:24:19:640.log/(3227:3280): termino tarea de transformacion del worker 4
+[INFO] 19:24:48:148 masterLogs19:24:19:640.log/(3227:3275): termino tarea de transformacion del worker 4
+[INFO] 19:24:48:348 masterLogs19:24:19:640.log/(3227:3323): Enviado transformacion a worker 3
+[INFO] 19:24:48:433 masterLogs19:24:19:640.log/(3227:3279): termino tarea de transformacion del worker 4
+[INFO] 19:24:48:438 masterLogs19:24:19:640.log/(3227:3325): Enviado transformacion a worker 4
+[INFO] 19:24:48:457 masterLogs19:24:19:640.log/(3227:3322): Enviado transformacion a worker 4
+[INFO] 19:24:48:469 masterLogs19:24:19:640.log/(3227:3305): termino tarea de transformacion del worker 3
+[INFO] 19:24:48:471 masterLogs19:24:19:640.log/(3227:3326): Enviado transformacion a worker 4
+[INFO] 19:24:48:488 masterLogs19:24:19:640.log/(3227:3327): Enviado transformacion a worker 4
+[INFO] 19:24:48:506 masterLogs19:24:19:640.log/(3227:3321): Enviado transformacion a worker 3
+[INFO] 19:24:48:814 masterLogs19:24:19:640.log/(3227:3273): termino tarea de transformacion del worker 4
+[INFO] 19:24:48:969 masterLogs19:24:19:640.log/(3227:3288): termino tarea de transformacion del worker 4
+[INFO] 19:24:48:976 masterLogs19:24:19:640.log/(3227:3312): termino tarea de transformacion del worker 3
+[INFO] 19:24:48:981 masterLogs19:24:19:640.log/(3227:3272): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:84 masterLogs19:24:19:640.log/(3227:3314): termino tarea de transformacion del worker 3
+[INFO] 19:24:49:253 masterLogs19:24:19:640.log/(3227:3286): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:264 masterLogs19:24:19:640.log/(3227:3284): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:421 masterLogs19:24:19:640.log/(3227:3304): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:621 masterLogs19:24:19:640.log/(3227:3328): Enviado transformacion a worker 3
+[INFO] 19:24:49:662 masterLogs19:24:19:640.log/(3227:3295): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:699 masterLogs19:24:19:640.log/(3227:3291): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:821 masterLogs19:24:19:640.log/(3227:3319): termino tarea de transformacion del worker 3
+[INFO] 19:24:49:826 masterLogs19:24:19:640.log/(3227:3297): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:836 masterLogs19:24:19:640.log/(3227:3313): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:839 masterLogs19:24:19:640.log/(3227:3302): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:853 masterLogs19:24:19:640.log/(3227:3311): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:854 masterLogs19:24:19:640.log/(3227:3293): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:862 masterLogs19:24:19:640.log/(3227:3329): Enviado transformacion a worker 4
+[INFO] 19:24:49:960 masterLogs19:24:19:640.log/(3227:3298): termino tarea de transformacion del worker 4
+[INFO] 19:24:49:974 masterLogs19:24:19:640.log/(3227:3282): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:53 masterLogs19:24:19:640.log/(3227:3300): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:63 masterLogs19:24:19:640.log/(3227:3283): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:65 masterLogs19:24:19:640.log/(3227:3308): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:67 masterLogs19:24:19:640.log/(3227:3299): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:222 masterLogs19:24:19:640.log/(3227:3285): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:229 masterLogs19:24:19:640.log/(3227:3306): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:235 masterLogs19:24:19:640.log/(3227:3287): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:243 masterLogs19:24:19:640.log/(3227:3289): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:282 masterLogs19:24:19:640.log/(3227:3281): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:288 masterLogs19:24:19:640.log/(3227:3330): Enviado transformacion a worker 3
+[INFO] 19:24:50:298 masterLogs19:24:19:640.log/(3227:3309): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:301 masterLogs19:24:19:640.log/(3227:3315): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:303 masterLogs19:24:19:640.log/(3227:3316): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:299 masterLogs19:24:19:640.log/(3227:3323): termino tarea de transformacion del worker 3
+[INFO] 19:24:50:359 masterLogs19:24:19:640.log/(3227:3307): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:367 masterLogs19:24:19:640.log/(3227:3318): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:588 masterLogs19:24:19:640.log/(3227:3331): Enviado transformacion a worker 4
+[INFO] 19:24:50:622 masterLogs19:24:19:640.log/(3227:3317): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:634 masterLogs19:24:19:640.log/(3227:3322): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:648 masterLogs19:24:19:640.log/(3227:3326): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:648 masterLogs19:24:19:640.log/(3227:3332): Enviado transformacion a worker 3
+[INFO] 19:24:50:702 masterLogs19:24:19:640.log/(3227:3325): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:706 masterLogs19:24:19:640.log/(3227:3320): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:725 masterLogs19:24:19:640.log/(3227:3333): Enviado transformacion a worker 4
+[INFO] 19:24:50:731 masterLogs19:24:19:640.log/(3227:3334): Enviado transformacion a worker 4
+[INFO] 19:24:50:764 masterLogs19:24:19:640.log/(3227:3324): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:853 masterLogs19:24:19:640.log/(3227:3327): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:889 masterLogs19:24:19:640.log/(3227:3329): termino tarea de transformacion del worker 4
+[INFO] 19:24:50:940 masterLogs19:24:19:640.log/(3227:3335): Enviado transformacion a worker 1
+[INFO] 19:24:51:69 masterLogs19:24:19:640.log/(3227:3331): termino tarea de transformacion del worker 4
+[INFO] 19:24:51:76 masterLogs19:24:19:640.log/(3227:3321): termino tarea de transformacion del worker 3
+[INFO] 19:24:51:78 masterLogs19:24:19:640.log/(3227:3336): Enviado transformacion a worker 4
+[INFO] 19:24:51:102 masterLogs19:24:19:640.log/(3227:3334): termino tarea de transformacion del worker 4
+[INFO] 19:24:51:119 masterLogs19:24:19:640.log/(3227:3337): Enviado transformacion a worker 2
+[INFO] 19:24:51:174 masterLogs19:24:19:640.log/(3227:3333): termino tarea de transformacion del worker 4
+[INFO] 19:24:51:219 masterLogs19:24:19:640.log/(3227:3335): termino tarea de transformacion del worker 1
+[INFO] 19:24:51:539 masterLogs19:24:19:640.log/(3227:3328): termino tarea de transformacion del worker 3
+[INFO] 19:24:51:542 masterLogs19:24:19:640.log/(3227:3338): Enviado transformacion a worker 3
+[INFO] 19:24:51:545 masterLogs19:24:19:640.log/(3227:3339): Enviado transformacion a worker 2
+[INFO] 19:24:51:551 masterLogs19:24:19:640.log/(3227:3336): termino tarea de transformacion del worker 4
+[INFO] 19:24:51:777 masterLogs19:24:19:640.log/(3227:3337): termino tarea de transformacion del worker 2
+[INFO] 19:24:52:170 masterLogs19:24:19:640.log/(3227:3339): termino tarea de transformacion del worker 2
+[INFO] 19:24:52:328 masterLogs19:24:19:640.log/(3227:3332): termino tarea de transformacion del worker 3
+[INFO] 19:24:52:392 masterLogs19:24:19:640.log/(3227:3330): termino tarea de transformacion del worker 3
+[INFO] 19:24:52:547 masterLogs19:24:19:640.log/(3227:3340): Enviado transformacion a worker 4
+[INFO] 19:24:52:575 masterLogs19:24:19:640.log/(3227:3341): Enviado transformacion a worker 1
+[INFO] 19:24:52:576 masterLogs19:24:19:640.log/(3227:3345): Enviado transformacion a worker 2
+[INFO] 19:24:52:661 masterLogs19:24:19:640.log/(3227:3341): termino tarea de transformacion del worker 1
+[INFO] 19:24:52:671 masterLogs19:24:19:640.log/(3227:3344): Enviado transformacion a worker 3
+[INFO] 19:24:52:674 masterLogs19:24:19:640.log/(3227:3343): Enviado transformacion a worker 2
+[INFO] 19:24:52:680 masterLogs19:24:19:640.log/(3227:3347): Enviado transformacion a worker 1
+[INFO] 19:24:52:692 masterLogs19:24:19:640.log/(3227:3340): termino tarea de transformacion del worker 4
+[INFO] 19:24:52:696 masterLogs19:24:19:640.log/(3227:3348): Enviado transformacion a worker 4
+[INFO] 19:24:52:709 masterLogs19:24:19:640.log/(3227:3342): Enviado transformacion a worker 4
+[INFO] 19:24:52:712 masterLogs19:24:19:640.log/(3227:3349): Enviado transformacion a worker 2
+[INFO] 19:24:52:733 masterLogs19:24:19:640.log/(3227:3350): Enviado transformacion a worker 3
+[INFO] 19:24:52:734 masterLogs19:24:19:640.log/(3227:3351): Enviado transformacion a worker 2
+[INFO] 19:24:52:742 masterLogs19:24:19:640.log/(3227:3352): Enviado transformacion a worker 4
+[INFO] 19:24:52:748 masterLogs19:24:19:640.log/(3227:3353): Enviado transformacion a worker 1
+[INFO] 19:24:52:753 masterLogs19:24:19:640.log/(3227:3354): Enviado transformacion a worker 4
+[INFO] 19:24:52:755 masterLogs19:24:19:640.log/(3227:3355): Enviado transformacion a worker 2
+[INFO] 19:24:52:770 masterLogs19:24:19:640.log/(3227:3356): Enviado transformacion a worker 3
+[INFO] 19:24:52:775 masterLogs19:24:19:640.log/(3227:3346): Enviado transformacion a worker 4
+[INFO] 19:24:52:776 masterLogs19:24:19:640.log/(3227:3357): Enviado transformacion a worker 2
+[INFO] 19:24:52:781 masterLogs19:24:19:640.log/(3227:3358): Enviado transformacion a worker 4
+[INFO] 19:24:52:788 masterLogs19:24:19:640.log/(3227:3359): Enviado transformacion a worker 1
+[INFO] 19:24:52:789 masterLogs19:24:19:640.log/(3227:3361): Enviado transformacion a worker 2
+[INFO] 19:24:52:797 masterLogs19:24:19:640.log/(3227:3360): Enviado transformacion a worker 4
+[INFO] 19:24:52:801 masterLogs19:24:19:640.log/(3227:3365): Enviado transformacion a worker 1
+[INFO] 19:24:52:816 masterLogs19:24:19:640.log/(3227:3364): Enviado transformacion a worker 4
+[INFO] 19:24:52:831 masterLogs19:24:19:640.log/(3227:3362): Enviado transformacion a worker 3
+[INFO] 19:24:52:832 masterLogs19:24:19:640.log/(3227:3363): Enviado transformacion a worker 2
+[INFO] 19:24:52:836 masterLogs19:24:19:640.log/(3227:3347): termino tarea de transformacion del worker 1
+[INFO] 19:24:52:844 masterLogs19:24:19:640.log/(3227:3368): Enviado transformacion a worker 3
+[INFO] 19:24:52:845 masterLogs19:24:19:640.log/(3227:3367): Enviado transformacion a worker 2
+[INFO] 19:24:52:848 masterLogs19:24:19:640.log/(3227:3366): Enviado transformacion a worker 4
+[INFO] 19:24:52:850 masterLogs19:24:19:640.log/(3227:3369): Enviado transformacion a worker 2
+[INFO] 19:24:52:859 masterLogs19:24:19:640.log/(3227:3370): Enviado transformacion a worker 4
+[INFO] 19:24:52:874 masterLogs19:24:19:640.log/(3227:3371): Enviado transformacion a worker 1
+[INFO] 19:24:52:897 masterLogs19:24:19:640.log/(3227:3372): Enviado transformacion a worker 4
+[INFO] 19:24:52:899 masterLogs19:24:19:640.log/(3227:3373): Enviado transformacion a worker 2
+[INFO] 19:24:52:916 masterLogs19:24:19:640.log/(3227:3375): Enviado transformacion a worker 2
+[INFO] 19:24:52:918 masterLogs19:24:19:640.log/(3227:3374): Enviado transformacion a worker 3
+[INFO] 19:24:52:933 masterLogs19:24:19:640.log/(3227:3376): Enviado transformacion a worker 4
+[INFO] 19:24:52:939 masterLogs19:24:19:640.log/(3227:3377): Enviado transformacion a worker 1
+[INFO] 19:24:52:942 masterLogs19:24:19:640.log/(3227:3378): Enviado transformacion a worker 4
+[INFO] 19:24:52:944 masterLogs19:24:19:640.log/(3227:3379): Enviado transformacion a worker 2
+[INFO] 19:24:52:955 masterLogs19:24:19:640.log/(3227:3380): Enviado transformacion a worker 3
+[INFO] 19:24:52:956 masterLogs19:24:19:640.log/(3227:3381): Enviado transformacion a worker 2
+[INFO] 19:24:52:957 masterLogs19:24:19:640.log/(3227:3385): Enviado transformacion a worker 2
+[INFO] 19:24:52:967 masterLogs19:24:19:640.log/(3227:3386): Enviado transformacion a worker 3
+[INFO] 19:24:52:970 masterLogs19:24:19:640.log/(3227:3384): Enviado transformacion a worker 4
+[INFO] 19:24:52:971 masterLogs19:24:19:640.log/(3227:3387): Enviado transformacion a worker 2
+[INFO] 19:24:52:985 masterLogs19:24:19:640.log/(3227:3388): Enviado transformacion a worker 4
+[INFO] 19:24:52:992 masterLogs19:24:19:640.log/(3227:3383): Enviado transformacion a worker 1
+[INFO] 19:24:53:17 masterLogs19:24:19:640.log/(3227:3389): Enviado transformacion a worker 1
+[INFO] 19:24:53:66 masterLogs19:24:19:640.log/(3227:3382): Enviado transformacion a worker 4
+[INFO] 19:24:53:82 masterLogs19:24:19:640.log/(3227:3390): Enviado transformacion a worker 4
+[INFO] 19:24:53:83 masterLogs19:24:19:640.log/(3227:3391): Enviado transformacion a worker 2
+[INFO] 19:24:53:294 masterLogs19:24:19:640.log/(3227:3393): Enviado transformacion a worker 2
+[INFO] 19:24:53:295 masterLogs19:24:19:640.log/(3227:3392): Enviado transformacion a worker 3
+[INFO] 19:24:53:297 masterLogs19:24:19:640.log/(3227:3394): Enviado transformacion a worker 4
+[INFO] 19:24:53:298 masterLogs19:24:19:640.log/(3227:3353): termino tarea de transformacion del worker 1
+[INFO] 19:24:53:304 masterLogs19:24:19:640.log/(3227:3395): Enviado transformacion a worker 1
+[INFO] 19:24:53:310 masterLogs19:24:19:640.log/(3227:3396): Enviado transformacion a worker 4
+[INFO] 19:24:53:312 masterLogs19:24:19:640.log/(3227:3397): Enviado transformacion a worker 2
+[INFO] 19:24:53:319 masterLogs19:24:19:640.log/(3227:3365): termino tarea de transformacion del worker 1
+[INFO] 19:24:53:321 masterLogs19:24:19:640.log/(3227:3398): Enviado transformacion a worker 3
+[INFO] 19:24:53:323 masterLogs19:24:19:640.log/(3227:3399): Enviado transformacion a worker 2
+[INFO] 19:24:53:328 masterLogs19:24:19:640.log/(3227:3400): Enviado transformacion a worker 4
+[INFO] 19:24:53:342 masterLogs19:24:19:640.log/(3227:3401): Enviado transformacion a worker 1
+[INFO] 19:24:53:344 masterLogs19:24:19:640.log/(3227:3403): Enviado transformacion a worker 2
+[INFO] 19:24:53:354 masterLogs19:24:19:640.log/(3227:3402): Enviado transformacion a worker 4
+[INFO] 19:24:53:368 masterLogs19:24:19:640.log/(3227:3404): Enviado transformacion a worker 3
+[INFO] 19:24:53:369 masterLogs19:24:19:640.log/(3227:3405): Enviado transformacion a worker 2
+[INFO] 19:24:53:372 masterLogs19:24:19:640.log/(3227:3406): Enviado transformacion a worker 4
+[INFO] 19:24:53:377 masterLogs19:24:19:640.log/(3227:3407): Enviado transformacion a worker 1
+[INFO] 19:24:53:382 masterLogs19:24:19:640.log/(3227:3408): Enviado transformacion a worker 4
+[INFO] 19:24:53:383 masterLogs19:24:19:640.log/(3227:3409): Enviado transformacion a worker 2
+[INFO] 19:24:53:390 masterLogs19:24:19:640.log/(3227:3410): Enviado transformacion a worker 3
+[INFO] 19:24:53:391 masterLogs19:24:19:640.log/(3227:3411): Enviado transformacion a worker 2
+[INFO] 19:24:53:395 masterLogs19:24:19:640.log/(3227:3412): Enviado transformacion a worker 4
+[INFO] 19:24:53:398 masterLogs19:24:19:640.log/(3227:3413): Enviado transformacion a worker 1
+[INFO] 19:24:53:405 masterLogs19:24:19:640.log/(3227:3414): Enviado transformacion a worker 4
+[INFO] 19:24:53:407 masterLogs19:24:19:640.log/(3227:3415): Enviado transformacion a worker 2
+[INFO] 19:24:53:418 masterLogs19:24:19:640.log/(3227:3416): Enviado transformacion a worker 3
+[INFO] 19:24:53:420 masterLogs19:24:19:640.log/(3227:3417): Enviado transformacion a worker 2
+[INFO] 19:24:53:447 masterLogs19:24:19:640.log/(3227:3359): termino tarea de transformacion del worker 1
+[INFO] 19:24:53:456 masterLogs19:24:19:640.log/(3227:3418): Enviado transformacion a worker 4
+[INFO] 19:24:53:465 masterLogs19:24:19:640.log/(3227:3419): Enviado transformacion a worker 1
+[INFO] 19:24:53:492 masterLogs19:24:19:640.log/(3227:3420): Enviado transformacion a worker 4
+[INFO] 19:24:53:493 masterLogs19:24:19:640.log/(3227:3421): Enviado transformacion a worker 2
+[INFO] 19:24:53:518 masterLogs19:24:19:640.log/(3227:3422): Enviado transformacion a worker 3
+[INFO] 19:24:53:522 masterLogs19:24:19:640.log/(3227:3423): Enviado transformacion a worker 2
+[INFO] 19:24:53:534 masterLogs19:24:19:640.log/(3227:3424): Enviado transformacion a worker 4
+[INFO] 19:24:53:564 masterLogs19:24:19:640.log/(3227:3425): Enviado transformacion a worker 1
+[INFO] 19:24:53:602 masterLogs19:24:19:640.log/(3227:3428): Enviado transformacion a worker 3
+[INFO] 19:24:53:614 masterLogs19:24:19:640.log/(3227:3432): Enviado transformacion a worker 4
+[INFO] 19:24:53:617 masterLogs19:24:19:640.log/(3227:3430): Enviado transformacion a worker 4
+[INFO] 19:24:53:622 masterLogs19:24:19:640.log/(3227:3431): Enviado transformacion a worker 1
+[INFO] 19:24:53:624 masterLogs19:24:19:640.log/(3227:3427): Enviado transformacion a worker 2
+[INFO] 19:24:53:625 masterLogs19:24:19:640.log/(3227:3429): Enviado transformacion a worker 2
+[INFO] 19:24:53:628 masterLogs19:24:19:640.log/(3227:3433): Enviado transformacion a worker 2
+[INFO] 19:24:53:637 masterLogs19:24:19:640.log/(3227:3434): Enviado transformacion a worker 3
+[INFO] 19:24:53:638 masterLogs19:24:19:640.log/(3227:3435): Enviado transformacion a worker 2
+[INFO] 19:24:53:642 masterLogs19:24:19:640.log/(3227:3436): Enviado transformacion a worker 4
+[INFO] 19:24:53:646 masterLogs19:24:19:640.log/(3227:3437): Enviado transformacion a worker 1
+[INFO] 19:24:53:651 masterLogs19:24:19:640.log/(3227:3426): Enviado transformacion a worker 4
+[INFO] 19:24:53:655 masterLogs19:24:19:640.log/(3227:3439): Enviado transformacion a worker 2
+[INFO] 19:24:53:668 masterLogs19:24:19:640.log/(3227:3438): Enviado transformacion a worker 4
+[INFO] 19:24:53:692 masterLogs19:24:19:640.log/(3227:3440): Enviado transformacion a worker 3
+[INFO] 19:24:53:693 masterLogs19:24:19:640.log/(3227:3441): Enviado transformacion a worker 2
+[INFO] 19:24:53:772 masterLogs19:24:19:640.log/(3227:3383): termino tarea de transformacion del worker 1
+[INFO] 19:24:53:930 masterLogs19:24:19:640.log/(3227:3389): termino tarea de transformacion del worker 1
+[INFO] 19:24:53:965 masterLogs19:24:19:640.log/(3227:3371): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:8 masterLogs19:24:19:640.log/(3227:3377): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:206 masterLogs19:24:19:640.log/(3227:3401): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:343 masterLogs19:24:19:640.log/(3227:3407): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:445 masterLogs19:24:19:640.log/(3227:3419): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:454 masterLogs19:24:19:640.log/(3227:3431): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:476 masterLogs19:24:19:640.log/(3227:3413): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:478 masterLogs19:24:19:640.log/(3227:3425): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:482 masterLogs19:24:19:640.log/(3227:3395): termino tarea de transformacion del worker 1
+[INFO] 19:24:54:544 masterLogs19:24:19:640.log/(3227:3437): termino tarea de transformacion del worker 1
+[INFO] 19:24:55:37 masterLogs19:24:19:640.log/(3227:3348): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:63 masterLogs19:24:19:640.log/(3227:3338): termino tarea de transformacion del worker 3
+[INFO] 19:24:55:244 masterLogs19:24:19:640.log/(3227:3366): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:368 masterLogs19:24:19:640.log/(3227:3358): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:376 masterLogs19:24:19:640.log/(3227:3354): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:389 masterLogs19:24:19:640.log/(3227:3372): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:430 masterLogs19:24:19:640.log/(3227:3370): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:570 masterLogs19:24:19:640.log/(3227:3346): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:832 masterLogs19:24:19:640.log/(3227:3378): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:836 masterLogs19:24:19:640.log/(3227:3390): termino tarea de transformacion del worker 4
+[INFO] 19:24:55:908 masterLogs19:24:19:640.log/(3227:3364): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:49 masterLogs19:24:19:640.log/(3227:3384): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:58 masterLogs19:24:19:640.log/(3227:3342): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:70 masterLogs19:24:19:640.log/(3227:3376): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:223 masterLogs19:24:19:640.log/(3227:3408): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:252 masterLogs19:24:19:640.log/(3227:3394): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:263 masterLogs19:24:19:640.log/(3227:3382): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:383 masterLogs19:24:19:640.log/(3227:3400): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:392 masterLogs19:24:19:640.log/(3227:3360): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:605 masterLogs19:24:19:640.log/(3227:3412): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:627 masterLogs19:24:19:640.log/(3227:3352): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:630 masterLogs19:24:19:640.log/(3227:3430): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:643 masterLogs19:24:19:640.log/(3227:3414): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:645 masterLogs19:24:19:640.log/(3227:3426): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:655 masterLogs19:24:19:640.log/(3227:3420): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:657 masterLogs19:24:19:640.log/(3227:3438): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:660 masterLogs19:24:19:640.log/(3227:3396): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:664 masterLogs19:24:19:640.log/(3227:3424): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:666 masterLogs19:24:19:640.log/(3227:3388): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:679 masterLogs19:24:19:640.log/(3227:3436): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:683 masterLogs19:24:19:640.log/(3227:3402): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:695 masterLogs19:24:19:640.log/(3227:3406): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:697 masterLogs19:24:19:640.log/(3227:3418): termino tarea de transformacion del worker 4
+[INFO] 19:24:56:708 masterLogs19:24:19:640.log/(3227:3432): termino tarea de transformacion del worker 4
+[INFO] 19:24:57:198 masterLogs19:24:19:640.log/(3227:3374): termino tarea de transformacion del worker 3
+[INFO] 19:24:57:640 masterLogs19:24:19:640.log/(3227:3344): termino tarea de transformacion del worker 3
+[INFO] 19:24:58:311 masterLogs19:24:19:640.log/(3227:3380): termino tarea de transformacion del worker 3
+[INFO] 19:24:58:743 masterLogs19:24:19:640.log/(3227:3350): termino tarea de transformacion del worker 3
+[INFO] 19:24:58:789 masterLogs19:24:19:640.log/(3227:3362): termino tarea de transformacion del worker 3
+[INFO] 19:24:59:162 masterLogs19:24:19:640.log/(3227:3368): termino tarea de transformacion del worker 3
+[INFO] 19:24:59:234 masterLogs19:24:19:640.log/(3227:3386): termino tarea de transformacion del worker 3
+[INFO] 19:24:59:785 masterLogs19:24:19:640.log/(3227:3404): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:263 masterLogs19:24:19:640.log/(3227:3422): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:685 masterLogs19:24:19:640.log/(3227:3392): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:752 masterLogs19:24:19:640.log/(3227:3434): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:819 masterLogs19:24:19:640.log/(3227:3356): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:822 masterLogs19:24:19:640.log/(3227:3410): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:845 masterLogs19:24:19:640.log/(3227:3440): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:906 masterLogs19:24:19:640.log/(3227:3398): termino tarea de transformacion del worker 3
+[INFO] 19:25:00:995 masterLogs19:24:19:640.log/(3227:3416): termino tarea de transformacion del worker 3
+[INFO] 19:25:01:36 masterLogs19:24:19:640.log/(3227:3428): termino tarea de transformacion del worker 3
+[INFO] 19:25:04:226 masterLogs19:24:19:640.log/(3227:3441): termino tarea de transformacion del worker 2
+[INFO] 19:25:08:467 masterLogs19:24:19:640.log/(3227:3375): termino tarea de transformacion del worker 2
+[INFO] 19:25:09:347 masterLogs19:24:19:640.log/(3227:3373): termino tarea de transformacion del worker 2
+[INFO] 19:25:09:827 masterLogs19:24:19:640.log/(3227:3397): termino tarea de transformacion del worker 2
+[INFO] 19:25:09:911 masterLogs19:24:19:640.log/(3227:3343): termino tarea de transformacion del worker 2
+[INFO] 19:25:10:34 masterLogs19:24:19:640.log/(3227:3387): termino tarea de transformacion del worker 2
+[INFO] 19:25:10:295 masterLogs19:24:19:640.log/(3227:3379): termino tarea de transformacion del worker 2
+[INFO] 19:25:10:502 masterLogs19:24:19:640.log/(3227:3411): termino tarea de transformacion del worker 2
+[INFO] 19:25:10:798 masterLogs19:24:19:640.log/(3227:3385): termino tarea de transformacion del worker 2
+[INFO] 19:25:10:818 masterLogs19:24:19:640.log/(3227:3355): termino tarea de transformacion del worker 2
+[INFO] 19:25:10:896 masterLogs19:24:19:640.log/(3227:3369): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:177 masterLogs19:24:19:640.log/(3227:3405): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:245 masterLogs19:24:19:640.log/(3227:3357): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:347 masterLogs19:24:19:640.log/(3227:3363): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:399 masterLogs19:24:19:640.log/(3227:3415): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:627 masterLogs19:24:19:640.log/(3227:3439): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:699 masterLogs19:24:19:640.log/(3227:3345): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:780 masterLogs19:24:19:640.log/(3227:3391): termino tarea de transformacion del worker 2
+[INFO] 19:25:11:944 masterLogs19:24:19:640.log/(3227:3435): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:38 masterLogs19:24:19:640.log/(3227:3393): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:73 masterLogs19:24:19:640.log/(3227:3351): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:120 masterLogs19:24:19:640.log/(3227:3417): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:179 masterLogs19:24:19:640.log/(3227:3349): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:312 masterLogs19:24:19:640.log/(3227:3381): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:542 masterLogs19:24:19:640.log/(3227:3361): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:561 masterLogs19:24:19:640.log/(3227:3367): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:724 masterLogs19:24:19:640.log/(3227:3399): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:810 masterLogs19:24:19:640.log/(3227:3433): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:836 masterLogs19:24:19:640.log/(3227:3427): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:862 masterLogs19:24:19:640.log/(3227:3429): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:955 masterLogs19:24:19:640.log/(3227:3421): termino tarea de transformacion del worker 2
+[INFO] 19:25:12:962 masterLogs19:24:19:640.log/(3227:3423): termino tarea de transformacion del worker 2
+[INFO] 19:25:13:104 masterLogs19:24:19:640.log/(3227:3409): termino tarea de transformacion del worker 2
+[INFO] 19:25:13:123 masterLogs19:24:19:640.log/(3227:3403): termino tarea de transformacion del worker 2
+[INFO] 19:26:44:767 masterLogs19:24:19:640.log/(3227:3655): Se envia operacion de reduccion local al worker 1.
+[INFO] 19:27:19:378 masterLogs19:24:19:640.log/(3227:3664): Se envia operacion de reduccion local al worker 4.
+[INFO] 19:27:36:679 masterLogs19:24:19:640.log/(3227:3678): Se envia operacion de reduccion local al worker 3.
+[INFO] 19:28:11:337 masterLogs19:24:19:640.log/(3227:3686): Se envia operacion de reduccion local al worker 2.
+[INFO] 19:33:15:460 masterLogs19:24:19:640.log/(3227:3227): Inicia reduccion global
+[INFO] 19:33:15:608 masterLogs19:24:19:640.log/(3227:3227): Se completa la operacion de reduccion global al worker encargado
+[INFO] 19:33:16:482 masterLogs19:24:19:640.log/(3227:3227): Se avisa al worker encargado (nodo 1) para almacenar el resultado del job.
+[INFO] 19:33:18:237 masterLogs19:24:19:640.log/(3227:3227): Finaliza la ejecucion del job
